@@ -1,0 +1,15 @@
+.shop-page {
+  width: 90%;
+  margin: auto;
+  padding: 40px 0;
+}
+
+.shop-page h1 {
+  color: #1565c0;
+  margin-bottom: 10px;
+}
+
+.shop-page p {
+  color: #555;
+  margin-bottom: 25px;
+}

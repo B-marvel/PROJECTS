@@ -1,0 +1,27 @@
+.services{
+    padding:60px 20px;
+    text-align:center;
+}
+
+.services h2{
+    color:#1565c0;
+    margin-bottom:40px;
+}
+
+.services-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:20px;
+}
+
+.service-card{
+    background:#ffffff;
+    padding:25px;
+    border-radius:12px;
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+.service-card h3{
+    color:#1565c0;
+    margin-bottom:10px;
+}
