@@ -1,6 +1,6 @@
 import Hero from "../components/Home/Hero";
-import Categories from "../components/home/Categories";
-import FeaturedProducts from "../components/home/FeaturedProducts";
+import Categories from "../components/Home/Categories";
+import FeaturedProducts from "../components/Home/FeaturedProducts";
 
 function Home() {
   return (
